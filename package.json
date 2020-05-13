@@ -1,7 +1,7 @@
 {
-  "name": "strapi-provider-upload-tencent",
+  "name": "strapi-provider-upload-baidu",
   "version": "3.0.0-beta.15",
-  "description": "Tencent Cloud COS provider for strapi upload",
+  "description": "Baidu Cloud BOS provider for strapi upload",
   "directories": {
     "lib": "./lib"
   },
@@ -11,30 +11,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Turkyden/strapi-provider-upload-tencent.git"
+    "url": "git://github.com/gehaollt/strapi-provider-upload-baidu.git"
   },
   "author": {
-    "email": "wj871287@gmail.com",
-    "name": "Turkyden",
-    "url": "https://github.com/Turkyden"
+    "email": "jdxnxmly@gmail.com",
+    "name": "gehaollt",
+    "url": "https://github.com/gehaollt"
   },
   "maintainers": [
     {
-      "name": "Turkyden",
-      "email": "wj871287@gmail.com",
-      "url": "https://github.com/Turkyden"
+      "name": "gehaollt",
+      "email": "jdxnxmly@gmail.com",
+      "url": "https://github.com/gehaollt"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Turkyden/strapi-provider-upload-tencent/issues"
+    "url": "https://github.com/gehaollt/strapi-provider-upload-baidu/issues"
   },
   "strapi": {
     "isProvider": true
   },
-  "homepage": "https://github.com/Turkyden/strapi-provider-upload-tencent#readme",
+  "homepage": "https://github.com/gehaollt/strapi-provider-upload-baidu#readme",
   "dependencies": {
-    "cos-nodejs-sdk-v5": "^2.5.9"
+    "@baiducloud/sdk": "^1.0.0-rc.16"
   },
   "engines": {
     "node": ">=10.0.0",
