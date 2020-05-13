@@ -1,7 +1,5 @@
-# Strapi-Provider-Upload-Tencent
+# Strapi-Provider-Upload-Baidu
 
-A tencent cos provider plugin deved for strapi.
+A baidu bos provider plugin deved for strapi.
 
-[COS Node.js SDK](https://cloud.tencent.com/document/product/436/8629)
-
-[Region](https://cloud.tencent.com/document/product/436/6224)
+[BOS Node.js SDK](https://cloud.baidu.com/doc/BOS/s/Djwvyrhiw)
