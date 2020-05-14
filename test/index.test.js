@@ -1,6 +1,6 @@
 'use strict'
 
-const SPUT = require('./index')
+const SPUT = require('../lib/index')
 
 const config = {
   ak: '',
