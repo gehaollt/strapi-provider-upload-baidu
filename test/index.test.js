@@ -5,7 +5,7 @@ const SPUT = require('../lib/index')
 const config = {
   ak: '',
   sk: '',
-  region: '',
+  domain: '',
   bucket: '',
 }
 
